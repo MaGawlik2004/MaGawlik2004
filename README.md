@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Mateusz 
 
 🎓 I'm a final-year **Practical Computer Science** student at Gdańsk University  
 
