@@ -8,7 +8,7 @@
 
 Here are the technologies I work with the most:
 
-![My Skills](https://skillicons.dev/icons?i=git,linux,python,flask,js,nextjs,express,html,css,docker,kubernetes,postgres,sqlite,mongodb,jira)
+![My Skills](https://skillicons.dev/icons?i=git,linux,python,flask,java,js,nextjs,express,html,css,docker,kubernetes,postgres,sqlite,mongodb,jira)
 
 ---
 
